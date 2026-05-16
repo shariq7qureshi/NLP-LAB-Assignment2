@@ -22,5 +22,5 @@
 
 ## How to Run
 1. Install libraries
-2. Place PDF file in folder
+2. Place "book.pdf" PDF file in folder
 3. Run notebook cells
