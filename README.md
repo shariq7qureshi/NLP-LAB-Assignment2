@@ -18,6 +18,7 @@
 - Scikit-learn
 - Pandas
 - Plotly
+- nbformat
 
 ## How to Run
 1. Install libraries
